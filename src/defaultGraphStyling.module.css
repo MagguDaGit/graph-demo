@@ -1,0 +1,8 @@
+.container {
+	width: 50rem;
+	height: 50rem;
+	background-color: grey;
+}
+.customNodeDiv {
+	background-color: blue;
+}
