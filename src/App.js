@@ -1,5 +1,6 @@
 import './App.css';
 import { DefaultCanvas } from './Scene/DefaultCanvas';
+// resource: https://www.npmjs.com/package/@react-three/fiber
 
 function App() {
 	return (
